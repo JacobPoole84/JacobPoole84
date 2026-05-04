@@ -10,7 +10,7 @@ I have experience building responsive web applications using React, Next.js, and
 * ✉️  You can contact me at [jacobpoole84@gmail.com](mailto:jacobpoole84@gmail.com)
 * 🧠  I'm currently learning and developing my stack daily
 * 👥  I'm looking to collaborate on almost any project
-* 💬  Ask me about I'm also a professional musician
+* 💬  I'm also a professional musician
 
 ### Skills
 
