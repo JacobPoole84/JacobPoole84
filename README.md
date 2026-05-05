@@ -14,7 +14,7 @@ I have experience building responsive web applications using React, Next.js, and
 
 ### Skills
 
-![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,figma,vscode)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,figma,vscode,firebase)
 
 ### Socials
 
