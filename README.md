@@ -7,6 +7,7 @@ Frontend Developer
 I have experience building responsive web applications using React, Next.js, and Tailwind CSS. Skilled in API integration, state management, and creating smooth, interactive user experiences.
 
 * 🌍  I'm based in Charleston, SC
+* 💼  See my portfolio at https://jacobpoole.dev
 * ✉️  You can contact me at [jacobpoole84@gmail.com](mailto:jacobpoole84@gmail.com)
 * 🧠  I'm currently learning and developing my stack daily
 * 👥  I'm looking to collaborate on almost any project
